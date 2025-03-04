@@ -9,7 +9,8 @@ This project aligns with the North East Combined Authority’s goal of using dat
 Effective policymaking and regional development require accurate, data-driven insights to:
 * address economic disparities
 * workforce challenges, and
-* public service inefficiencies. 
+* public service inefficiencies.
+  
 However, decision-makers in the North East of England often struggle with fragmented data, limited access to real-time economic indicators, and the complexity of translating data into actionable policies.
 
 Without a structured approach to data integration, analysis, and visualization, it becomes difficult to forecast economic trends, assess the impact of public initiatives, and allocate resources effectively.
