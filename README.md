@@ -16,3 +16,20 @@ However, decision-makers in the North East of England often struggle with fragme
 Without a structured approach to data integration, analysis, and visualization, it becomes difficult to forecast economic trends, assess the impact of public initiatives, and allocate resources effectively.
 
 This project aims to bridge this gap by utilizing data analytics, predictive modeling, and interactive dashboards to provide comprehensive economic insights. By doing so, policymakers will be empowered to make informed decisions that drive sustainable economic growth, enhance workforce development, and improve public services across the region.
+
+# Dataset
+The primary source of the data is from nomis official statistics website. Below are the key datasets according to their categories:
+* Public Service and Well-being data
+  * population
+  * Health
+  * Housing affordability
+  * Transport
+* Employment and Workforce Development data
+  * Unemployment rates
+  * Employment rates
+  * _Workforce qualification_
+  * Sector employment
+* Economic and Business Data
+  * GDP
+  * Employment rate
+  * 
