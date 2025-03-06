@@ -32,4 +32,5 @@ The primary source of the data is from nomis official statistics website. Below 
 * Economic and Business Data
   * GDP
   * Employment rate
-  * 
+  * Number of Business activities
+  * Income distribution
